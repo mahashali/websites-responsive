@@ -1,0 +1,73 @@
+.navbar{
+ padding: 0.5rem 7rem !important;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+}
+.nav-link{
+
+    font-family: 'Teko', sans-serif;
+    font-size: 22px !important;
+    color: black !important;
+    margin-right: 15px !important;
+}
+.som{
+     font-family: 'Teko', sans-serif !important;
+    font-size: 19px !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Teko', sans-serif;
+}
+
+.section{
+padding-top: 54px;
+padding-bottom: 54px;
+}
+.underline{
+    width: 100px;
+    height: 04px;
+    background: red;
+}
+.text-center p{
+   font-family: 'Poppins', sans-serif !important;
+    color: black !important;
+}
+.text-danger{
+    color: red !important;
+}
+.section-title{
+    font-size: 32px !important;
+    font-weight: 600px !important;
+    letter-spacing: 1px !important;
+
+}
+.bg-f2f2f2{
+    background: #f2f2f2 !important;
+}
+.readmore{
+    font-weight: 600px !important;
+    color: red !important;
+    text-decoration: underline  !important;
+}
+.bg-howitwork{
+background-image: url(../img/bg-1.jpg);
+background-repeat: no-repeat ;
+background-size: cover ;
+background-position: center center;
+position: relative;
+background-attachment: fixed;
+}
+.testi-image img{
+    border-radius: 50% !important;
+    border: 5px solid red !important;
+}
+.testi-image img{
+    width: 14% !important;
+}
+.footer-link{
+    color: white !important;
+    font-size: 14px !important;
+    padding-bottom: 07px !important;
+}
